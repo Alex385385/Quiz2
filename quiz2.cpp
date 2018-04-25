@@ -52,4 +52,6 @@ int main()
    cout << "Circle's area: " << c1.getArea() << endl;
    cout << "Circle's diameter: " << c1.getDiameter() << endl;
    cout << "Circle's circumference: " << c1.getCircumference() << endl;
+
+   return 0;
 }
